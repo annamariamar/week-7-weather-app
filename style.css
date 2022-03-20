@@ -43,6 +43,8 @@ li:first-letter {
 .weather-temperature img {
   height: 80px;
   margin-right: 15px;
+  margin-top: 5px;
+  margin-bottom: 0;
 }
 
 .temperature-display {
